@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="58d09f07-7dba-400b-b8d9-d45f3a6cf333" name="Changes" comment="deep analysis of quantum computation (referential integrity)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/githubfurryjustice/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/githubfurryjustice/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +81,7 @@
       <workItem from="1787382605831" duration="4327000" />
       <workItem from="1787392669243" duration="5000" />
       <workItem from="1787392833002" duration="724000" />
-      <workItem from="1787393962676" duration="3990000" />
+      <workItem from="1787393962676" duration="4307000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
