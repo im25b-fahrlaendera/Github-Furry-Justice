@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58d09f07-7dba-400b-b8d9-d45f3a6cf333" name="Changes" comment="nigeon" />
+    <list default="true" id="58d09f07-7dba-400b-b8d9-d45f3a6cf333" name="Changes" comment="nigeonnanaa">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubfurryjustice/game.js" beforeDir="false" afterPath="$PROJECT_DIR$/githubfurryjustice/game.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/githubfurryjustice/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/githubfurryjustice/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +40,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "JavaScript Debug.index.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.game.js.executor": "Run",
     "Node.js.server.js.executor": "Run",
@@ -78,7 +83,7 @@
       <workItem from="1787382605831" duration="4327000" />
       <workItem from="1787392669243" duration="5000" />
       <workItem from="1787392833002" duration="724000" />
-      <workItem from="1787393962676" duration="2034000" />
+      <workItem from="1787393962676" duration="2564000" />
     </task>
     <task id="LOCAL-00001" summary="a">
       <option name="closed" value="true" />
@@ -120,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1787394942613</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="nigeonnanaa">
+      <option name="closed" value="true" />
+      <created>1787397600392</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1787397600392</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,6 +154,8 @@
     <MESSAGE value="a" />
     <MESSAGE value="change" />
     <MESSAGE value="nigeon" />
-    <option name="LAST_COMMIT_MESSAGE" value="nigeon" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;githubfurryjustice/package-lock.json" />
+    <MESSAGE value="nigeonnanaa" />
+    <option name="LAST_COMMIT_MESSAGE" value="nigeonnanaa" />
   </component>
 </project>
