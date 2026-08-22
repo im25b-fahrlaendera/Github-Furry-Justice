@@ -197,7 +197,7 @@ function startMatch() {
     // Solo: Bots lokal
     state.bots = [];
     for (let i = 0; i < 5; i++) {
-      const names = ["Boris", "Hoppel", "Pepe", "Ozzy", "Kira"];
+      const names = ["Furrylover", "sigeon", "ronaldo", "Rias G.", "Sornyta"];
       let x, y;
       do {
         x = rand(120, MAP - 120);
